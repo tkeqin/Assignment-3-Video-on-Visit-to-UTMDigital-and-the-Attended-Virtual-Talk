@@ -1,10 +1,9 @@
 ### Reflection on Assignment 3
 
 <p align="center">
-
-  ![8da27a7c-12bf-461f-a10f-9532f98d9633](https://github.com/tkeqin/Assignment-3-Video-on-Visit-to-UTMDigital-and-the-Attended-Virtual-Talk/assets/148413538/4d43880f-f790-4349-8713-9008fafb0f28)
-
+    <img src="https://github.com/tkeqin/Assignment-3-Video-on-Visit-to-UTMDigital-and-the-Attended-Virtual-Talk/assets/148413538/4d43880f-f790-4349-8713-9008fafb0f28" width="500" alt="Image 1">
 </p>
+
 
 <p align="justify">
 Before the visit to UTM Digital, I had no idea about what or where it was located. I am very glad that there was an opportunity for me to visit UTM Digital, and I got to know more about this place. UTM Digital comprises units such as Open Office, Digital Care, TM Room and Data Centre. The overall working environment is very pleasant, and the workers are equipped with high-tech facilities.
