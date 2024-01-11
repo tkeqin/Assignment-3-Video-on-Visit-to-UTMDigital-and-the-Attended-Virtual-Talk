@@ -7,7 +7,7 @@
 </p>
 
 <p align="justify">
-Before the visit to UTM Digital, I had no idea about what or where it was located. I am very glad that there was an opportunity for me to visit UTM Digital, and I got to know more about this place. UTM Digital comprises units such as Open Office and Digital Care. The overall working environment is very pleasant, and the workers are equipped with high-tech facilities.
+Before the visit to UTM Digital, I had no idea about what or where it was located. I am very glad that there was an opportunity for me to visit UTM Digital, and I got to know more about this place. UTM Digital comprises units such as Open Office, Digital Care, TM Room and Data Centre. The overall working environment is very pleasant, and the workers are equipped with high-tech facilities.
 
 During the visit, I learned that the services at UTM Digital primarily focus on solving students' issues, such as problems with the UTM Smart application, Wi-Fi issues, and handling various complaints. Additionally, my team members and I had the privilege of interviewing Mr. Raziman, a senior IT officer in UTMDigital. His valuable insights during the interview session significantly changed my mindset and provided a deeper understanding of UTMDigital’s operations.
 
